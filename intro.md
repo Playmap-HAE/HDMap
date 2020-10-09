@@ -27,7 +27,8 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 2) 정밀지도이미지 (표시용)  
 
 <div>
-<img width="700" alt="스크린샷 2020-10-09 오후 4 15 40" src="https://user-images.githubusercontent.com/58937810/95554875-e1ad7b80-0a4b-11eb-89ae-3883de5414d7.png">
+<img width="450" height="300" alt="스크린샷 2020-10-09 오후 4 15 40" src="https://user-images.githubusercontent.com/58937810/95554875-e1ad7b80-0a4b-11eb-89ae-3883de5414d7.png">
+<img width="450" height="300" alt="스크린샷 2020-10-09 오후 4 55 22" src="https://user-images.githubusercontent.com/58937810/95557795-466ad500-0a50-11eb-84a2-be47f754b3ce.png">
 </div>
 
 <br>
