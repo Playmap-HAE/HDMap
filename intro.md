@@ -48,6 +48,7 @@ playmap@hyundai-mnsoft.com
 
 ## 관련 웹사이트
 
+[PlayMap HDMap](https://playmap.hyundai-mnsoft.com/map/templates/playmap.html?hdmap)
 [PlayMap Website](https://playmap.hyundai-mnsoft.com/)  
 [PlayMap Developer](https://developers.hyundai-mnsoft.com/)
 
