@@ -2,6 +2,7 @@
 
 <div>
 <img width="700" alt="스크린샷 2020-10-09 오후 4 00 13" src="https://user-images.githubusercontent.com/58937810/95554857-da866d80-0a4b-11eb-946b-94d8c233413a.png">
+<img width="700" alt="스크린샷 2020-10-09 오후 4 49 04" src="https://user-images.githubusercontent.com/58937810/95557187-6352d880-0a4f-11eb-8f4c-65db9e787bc9.png">
 </div>
 
 <br> 
