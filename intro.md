@@ -1,4 +1,9 @@
 ## PlayMap HD Map
+
+<div>
+<img width="700" alt="스크린샷 2020-10-09 오후 4 00 13" src="https://user-images.githubusercontent.com/58937810/95554857-da866d80-0a4b-11eb-946b-94d8c233413a.png">
+</div>
+
 <br> 
 PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의도)을 대상으로 제공합니다.  
 사용자 위치정보를 서버로 전송하여 해당위치 정밀지도를 도엽단위의 JSON 형식으로 (RAD-R Format) 제공하는 스트리밍 방식의 서비스입니다.  
@@ -21,8 +26,7 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 2) 정밀지도이미지 (표시용)  
 
 <div>
-<img width="856" alt="스크린샷 2020-10-09 오후 4 00 13" src="https://user-images.githubusercontent.com/58937810/95554857-da866d80-0a4b-11eb-946b-94d8c233413a.png">
-<img width="792" alt="스크린샷 2020-10-09 오후 4 15 40" src="https://user-images.githubusercontent.com/58937810/95554875-e1ad7b80-0a4b-11eb-89ae-3883de5414d7.png">
+<img width="700" alt="스크린샷 2020-10-09 오후 4 15 40" src="https://user-images.githubusercontent.com/58937810/95554875-e1ad7b80-0a4b-11eb-89ae-3883de5414d7.png">
 </div>
 
 ## 신청방법
