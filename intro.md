@@ -29,6 +29,10 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 <img width="700" alt="스크린샷 2020-10-09 오후 4 15 40" src="https://user-images.githubusercontent.com/58937810/95554875-e1ad7b80-0a4b-11eb-89ae-3883de5414d7.png">
 </div>
 
+<br>
+정밀지도 체험하기
+[PlayMap HDMap](https://playmap.hyundai-mnsoft.com/map/templates/playmap.html?hdmap)
+
 ## 신청방법
 
 **신청 항목** 을 기재하여 아래 메일로 신청해주시면 약관동의서 전달 및 심사 후 샘플 및 상세 문서를 회신드립니다.  
@@ -48,7 +52,6 @@ playmap@hyundai-mnsoft.com
 
 ## 관련 웹사이트
 
-[PlayMap HDMap](https://playmap.hyundai-mnsoft.com/map/templates/playmap.html?hdmap)
 [PlayMap Website](https://playmap.hyundai-mnsoft.com/)  
 [PlayMap Developer](https://developers.hyundai-mnsoft.com/)
 
