@@ -30,8 +30,8 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 </div>
 
 <br>
-정밀지도 체험하기
-[PlayMap HDMap](https://playmap.hyundai-mnsoft.com/map/templates/playmap.html?hdmap)
+정밀지도 체험하기  
+[PlayMap HD Map](https://playmap.hyundai-mnsoft.com/map/templates/playmap.html?hdmap)
 
 ## 신청방법
 
