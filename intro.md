@@ -23,6 +23,9 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 | |Lane Side (도로 표면 경계: 실선, 파선 등)|
 | |Lane Link (차선 중심 3D 형상 정보)|
 |Localization Model (측위 모델)|Road Edge(도로 경계시설물: 벽, 연석, 가드레일등)|
+||Road Sign|
+||Traffic Sign|
+||Road Facility (육교, 톨게이트 등)|
 
 
 <br>
