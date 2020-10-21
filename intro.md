@@ -18,7 +18,7 @@ PlayMap 정밀지도는 전국 자동차 전용도로 및 도심 지역(여의�
 
 |**구분(Model)**|**객체**|
 |------|---|
-|Land Model (차선모델) |Road Link (도로 중심선 정보)|
+|Lan Model (차선모델) |Road Link (도로 중심선 정보)|
 | |Road Node (도로 속성 경계 정보)|
 | |Lane Side (도로 표면 경계: 실선, 파선 등)|
 | |Lane Link (차선 중심 3D 형상 정보)|
