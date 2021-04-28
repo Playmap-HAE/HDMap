@@ -44,7 +44,7 @@ PlayMap 정밀지도는 도심 지역(여의도)을 대상으로 제공합니다
 ## 신청방법
 
 **신청 항목** 을 기재하여 아래 메일로 신청해주시면 약관동의서 전달 및 심사 후 샘플 및 상세 문서를 회신드립니다.  
-playmap@hyundai-mnsoft.com
+playmap@hyundai-autoever.com
 
 **신청 항목**
 1. 기본정보 (모든 항목 필수)
